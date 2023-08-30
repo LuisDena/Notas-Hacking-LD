@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "df7167ece6779616",
+    "type": "split",
+    "children": [
+      {
+        "id": "781855c67d137e1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9dd76faef70de81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 6 - 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30cfc7535d4c6cd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "33947afc4b27a16f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72e14b8f3fe4153c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae049b6c4e7c4da7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17358afbe34edd61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a58f194c21034cca",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed6ed5e4c4e0be53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e5367948c3df2d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "retos-bandit/Level 6 - 7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bad585fce00ce0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "retos-bandit/Level 6 - 7.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9aa3ad6178709e43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09be9598c88d1e89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "retos-bandit/Level 6 - 7.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a9dd76faef70de81",
+  "lastOpenFiles": [
+    "retos-bandit/Level 5 - 6.md",
+    "retos-bandit/Level 4 - 5.md",
+    "retos-bandit/Level 3 - 4.md",
+    "retos-bandit/Level 2 - 3.md",
+    "retos-bandit/Level 1 - 2.md",
+    "retos-bandit/Level 0 - 1.md",
+    "retos-bandit/Level 0.md",
+    "retos-bandit/Level 9 - 10.md",
+    "retos-bandit/Level 8 - 9.md",
+    "retos-bandit/Level 7 - 8.md",
+    "retos-bandit/Level 6 - 7.md",
+    "retos-bandit/Plantilla.md",
+    "README.md",
+    "retos-bandit"
+  ]
+}

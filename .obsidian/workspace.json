@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa0c8cd9e53b2c8c",
+        "id": "53bf0b8db4f7251f",
         "type": "tabs",
         "children": [
           {
-            "id": "ba261266887ae4e5",
+            "id": "72e4e7199d108b43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer-concurso/Hidden-Instruction.md",
+                "file": "retos-web-2/4-JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer-concurso/Hidden-Instruction.md",
+                "file": "retos-web-2/4-JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer-concurso/Hidden-Instruction.md",
+                "file": "retos-web-2/4-JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer-concurso/Hidden-Instruction.md"
+                "file": "retos-web-2/4-JaWT Scratchpad.md"
               }
             }
           },
@@ -156,13 +156,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ba261266887ae4e5",
+  "active": "72e4e7199d108b43",
   "lastOpenFiles": [
+    "retos-web-2/4-JaWT Scratchpad.md",
+    "Primer-concurso/Hidden-Instruction.md",
     "Primer-concurso/Pasted image 20231004131910.png",
     "Primer-concurso/How_to_catch_snakes.md",
     "Primer-concurso/Find the message.md",
-    "Primer-concurso/Hidden-Instruction.md",
-    "Primer-concurso/Hidden-Instruction.md",
     "Primer-concurso/An intriguing file.md",
     "130650.wav",
     "domino.jpg",
@@ -178,7 +178,6 @@
     "news.txt",
     "lento.mp3",
     "Plantilla.md",
-    "retos-web-2/4-JaWT Scratchpad.md",
     "Primer-concurso",
     "retos-web-2/3-Irish-Name-Repo-3.md",
     "retos-web-2/2-Irish-Name-Repo-2.md",

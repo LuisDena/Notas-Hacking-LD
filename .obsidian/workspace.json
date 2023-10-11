@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53bf0b8db4f7251f",
+        "id": "50b6b6579cfb3dde",
         "type": "tabs",
         "children": [
           {
-            "id": "72e4e7199d108b43",
+            "id": "f7aaf557f66ef123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-web-2/4-JaWT Scratchpad.md",
+                "file": "retos-web-3/3-Scavenger-hun.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-web-2/4-JaWT Scratchpad.md",
+                "file": "retos-web-3/3-Scavenger-hun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-web-2/4-JaWT Scratchpad.md",
+                "file": "retos-web-3/3-Scavenger-hun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-web-2/4-JaWT Scratchpad.md"
+                "file": "retos-web-3/3-Scavenger-hun.md"
               }
             }
           },
@@ -156,8 +156,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "72e4e7199d108b43",
+  "active": "f7aaf557f66ef123",
   "lastOpenFiles": [
+    "retos-web-3/2-Cookies.md",
+    "retos-web-3/3-Scavenger-hun.md",
+    "retos-web-3/1-GET-aHEAD.md",
+    "PlantillaExam.md",
+    "retos-web-3",
     "retos-web-2/4-JaWT Scratchpad.md",
     "Primer-concurso/Hidden-Instruction.md",
     "Primer-concurso/Pasted image 20231004131910.png",
@@ -182,7 +187,6 @@
     "retos-web-2/3-Irish-Name-Repo-3.md",
     "retos-web-2/2-Irish-Name-Repo-2.md",
     "retos-web-2/1-Irish-Name-Repo-1.md",
-    "PlantillaExam.md",
     "retos-web/6-Client-side-again.md",
     "retos-web-2",
     "retos-web/5-picobrowser.md",
@@ -190,9 +194,7 @@
     "retos-web/3-logon.md",
     "retos-web/2-where-are-the-robots.md",
     "retos-web/1-Insp3ct0r.md",
-    "Parcial-1/Parte-3/8-plumbing.md",
     "retos-web",
-    "Parcial-1/Parte-2",
-    "Parcial-1/Parte-3"
+    "Parcial-1/Parte-2"
   ]
 }

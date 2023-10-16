@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-web-3/3-Scavenger-hun.md",
+                "file": "retos-forensic/5-What-Lies-Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-web-3/3-Scavenger-hun.md",
+                "file": "retos-forensic/5-What-Lies-Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-web-3/3-Scavenger-hun.md",
+                "file": "retos-forensic/5-What-Lies-Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-web-3/3-Scavenger-hun.md"
+                "file": "retos-forensic/5-What-Lies-Within.md"
               }
             }
           },
@@ -158,10 +158,16 @@
   },
   "active": "f7aaf557f66ef123",
   "lastOpenFiles": [
-    "retos-web-3/2-Cookies.md",
-    "retos-web-3/3-Scavenger-hun.md",
-    "retos-web-3/1-GET-aHEAD.md",
+    "retos-forensic/4-extensions.md",
+    "retos-forensic/3-SharkOnWire.md",
+    "retos-forensic/1-GloryOfTheGarden.md",
+    "retos-forensic/2-SoMeta.md",
+    "retos-forensic/5-What-Lies-Within.md",
     "PlantillaExam.md",
+    "retos-web-3/3-Scavenger-hun.md",
+    "retos-forensic",
+    "retos-web-3/2-Cookies.md",
+    "retos-web-3/1-GET-aHEAD.md",
     "retos-web-3",
     "retos-web-2/4-JaWT Scratchpad.md",
     "Primer-concurso/Hidden-Instruction.md",
@@ -189,12 +195,6 @@
     "retos-web-2/1-Irish-Name-Repo-1.md",
     "retos-web/6-Client-side-again.md",
     "retos-web-2",
-    "retos-web/5-picobrowser.md",
-    "retos-web/4-dont-use-client-side.md",
-    "retos-web/3-logon.md",
-    "retos-web/2-where-are-the-robots.md",
-    "retos-web/1-Insp3ct0r.md",
-    "retos-web",
-    "Parcial-1/Parte-2"
+    "retos-web"
   ]
 }

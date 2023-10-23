@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-forensic-2/5-shark-on-wire-2.md",
+                "file": "retos-forensic-3/5-MacroHard-WeakEdge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-forensic-2/5-shark-on-wire-2.md",
+                "file": "retos-forensic-3/5-MacroHard-WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-forensic-2/5-shark-on-wire-2.md",
+                "file": "retos-forensic-3/5-MacroHard-WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-forensic-2/5-shark-on-wire-2.md"
+                "file": "retos-forensic-3/5-MacroHard-WeakEdge.md"
               }
             }
           },
@@ -158,12 +158,19 @@
   },
   "active": "f7aaf557f66ef123",
   "lastOpenFiles": [
-    "retos-forensic-2/4-like1000.md",
+    "retos-forensic-3/4-tunn3l_v1s10n.md",
+    "retos-forensic-3/3-Matryoshka-doll.md",
+    "retos-forensic-3/2-WebNet1.md",
+    "retos-forensic-3/1-WebNet0.md",
+    "retos-forensic-3/5-MacroHard-WeakEdge.md",
+    "PlantillaExam.md",
     "retos-forensic-2/5-shark-on-wire-2.md",
+    "retos-forensic-3",
+    "retos-forensic-2/Sin título",
+    "retos-forensic-2/4-like1000.md",
     "retos-forensic-2/3-c0rrupt.md",
     "retos-forensic-2/2-WhitePages.md",
     "retos-forensic-2/1-m00nwalk.md",
-    "PlantillaExam.md",
     "retos-forensic/5-What-Lies-Within.md",
     "retos-forensic-2",
     "retos-forensic/4-extensions.md",
@@ -186,15 +193,8 @@
     "Parcial-1/Parte-2/5- First-Grep.md",
     "Hidden_instruction.mp3",
     "Parcial-1/Parte-2/7-Strings-it.md",
-    "Parcial-1/Parte-3/2-Glitch-Cat.md",
-    "Parcial-1/Parte-1/8-Warmed-Up.md",
-    "Parcial-1/Parte-1/6-Magikarp-Ground-Mission.md",
-    "Parcial-1/Parte-1/5- Tab-tab-attack.md",
-    "Parcial-1/Parte-1/4-Static ain't always noise.md",
     "newsf.txt",
     "news.txt",
-    "lento.mp3",
-    "Primer-concurso",
-    "retos-web-2"
+    "lento.mp3"
   ]
 }

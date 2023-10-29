@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "50b6b6579cfb3dde",
+        "id": "9dd2c9466a8b39f8",
         "type": "tabs",
         "children": [
           {
-            "id": "f7aaf557f66ef123",
+            "id": "ef6874d48f3dbae9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-crypto-1/7-waves-over-lambda.md",
+                "file": "Parcial-2/Parte-2/7-St3g0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-crypto-1/7-waves-over-lambda.md",
+                "file": "Parcial-2/Parte-2/7-St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-crypto-1/7-waves-over-lambda.md",
+                "file": "Parcial-2/Parte-2/7-St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-crypto-1/7-waves-over-lambda.md"
+                "file": "Parcial-2/Parte-2/7-St3g0.md"
               }
             }
           },
@@ -156,45 +156,45 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f7aaf557f66ef123",
+  "active": "ef6874d48f3dbae9",
   "lastOpenFiles": [
+    "Parcial-2/Parte-2/6-Redaction gone wrong.md",
+    "Parcial-2/Parte-2/5-Packets Primer.md",
+    "Parcial-2/Parte-2/4-Lookey here.md",
+    "Parcial-2/Parte-2/3-Enhance!.md",
+    "Parcial-2/Parte-2/2- Wireshark doo dooo do doo....md",
+    "Parcial-2/Parte-2/1-information.md",
+    "Parcial-2/Parte-2/7-St3g0.md",
+    "Parcial-2/Parte-1-Retos-Web/9-SQL Direct.md",
+    "Parcial-2/Parte-1-Retos-Web/8-Secrets.md",
+    "Parcial-2/Parte-1-Retos-Web/7-Roboto Sans.md",
+    "Parcial-2/Parte-1-Retos-Web/6-Power Cookie.md",
+    "Parcial-2/Parte-1-Retos-Web/5-Forbidden Paths.md",
+    "Parcial-2/Parte-1-Retos-Web/4-Search source.md",
+    "Parcial-2/Parte-1-Retos-Web/3-Local Authority.md",
+    "Parcial-2/Parte-1-Retos-Web/2-Inspect HTML.md",
+    "Parcial-2/Parte-1-Retos-Web/1-Includes.md",
+    "PlantillaExam.md",
+    "retos-crypto-1/7-waves-over-lambda.md",
+    "Parcial-2/Parte-2",
+    "Parcial-2/Parte-1-Retos-Web",
+    "Sin título",
+    "Parcial-2",
     "retos-crypto-1/6-Tapping.md",
     "retos-crypto-1/5-la-cifra-de.md",
     "retos-crypto-1/4-caesar.md",
     "retos-crypto-1/3-13.md",
     "retos-crypto-1/2-Easy1.md",
     "retos-crypto-1/1-The Numbers.md",
-    "retos-crypto-1/7-waves-over-lambda.md",
-    "PlantillaExam.md",
     "retos-forensic-3/5-MacroHard-WeakEdge.md",
     "Sin título.md",
     "retos-crypto-1",
-    "retos-forensic-3/4-tunn3l_v1s10n.md",
-    "retos-forensic-3/3-Matryoshka-doll.md",
-    "retos-forensic-3/2-WebNet1.md",
-    "retos-forensic-3/1-WebNet0.md",
-    "retos-forensic-2/5-shark-on-wire-2.md",
     "retos-forensic-3",
     "retos-forensic-2/Sin título",
-    "retos-forensic-2/4-like1000.md",
-    "retos-forensic-2/3-c0rrupt.md",
-    "retos-forensic-2/2-WhitePages.md",
-    "retos-forensic-2/1-m00nwalk.md",
-    "retos-forensic/5-What-Lies-Within.md",
     "retos-forensic-2",
-    "retos-forensic/4-extensions.md",
-    "retos-forensic/3-SharkOnWire.md",
-    "retos-forensic/1-GloryOfTheGarden.md",
-    "retos-forensic/2-SoMeta.md",
-    "retos-web-3/3-Scavenger-hun.md",
     "retos-forensic",
-    "retos-web-3/2-Cookies.md",
     "retos-web-3",
     "Primer-concurso/Pasted image 20231004131910.png",
-    "130650.wav",
-    "domino.jpg",
-    "Hidden_instruction.mp3",
-    "newsf.txt",
-    "news.txt"
+    "domino.jpg"
   ]
 }

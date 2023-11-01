@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-crypto-2/3-b00tl3gRSA2.md",
+                "file": "retos-crypto-3/5-ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-crypto-2/3-b00tl3gRSA2.md",
+                "file": "retos-crypto-3/5-ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-crypto-2/3-b00tl3gRSA2.md",
+                "file": "retos-crypto-3/5-ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-crypto-2/3-b00tl3gRSA2.md"
+                "file": "retos-crypto-3/5-ReadMyCert.md"
               }
             }
           },
@@ -158,10 +158,16 @@
   },
   "active": "1325e4f80c07ca08",
   "lastOpenFiles": [
-    "retos-crypto-2/2-miniRSA.md",
-    "retos-crypto-2/3-b00tl3gRSA2.md",
-    "retos-crypto-2/1-rsa-pop-quiz.md",
+    "retos-crypto-3/4-HideToSee.md",
+    "retos-crypto-3/3-basic-mod1.md",
+    "retos-crypto-3/5-ReadMyCert.md",
+    "retos-crypto-3/2-Pixelated.md",
+    "retos-crypto-3/1-Mind your Ps and Qs.md",
     "PlantillaExam.md",
+    "retos-crypto-2/3-b00tl3gRSA2.md",
+    "retos-crypto-3",
+    "retos-crypto-2/2-miniRSA.md",
+    "retos-crypto-2/1-rsa-pop-quiz.md",
     "retos-crypto-2",
     "Parcial-2/Parte-2/7-St3g0.md",
     "Parcial-2/Parte-2/6-Redaction gone wrong.md",
@@ -183,17 +189,11 @@
     "Parcial-2/Parte-2",
     "Parcial-2/Parte-1-Retos-Web",
     "Parcial-2",
-    "retos-crypto-1/6-Tapping.md",
-    "retos-crypto-1/5-la-cifra-de.md",
-    "retos-crypto-1/4-caesar.md",
-    "retos-crypto-1/3-13.md",
-    "retos-crypto-1/2-Easy1.md",
     "retos-crypto-1",
     "retos-forensic-3",
     "retos-forensic-2/Sin título",
     "retos-forensic-2",
     "retos-forensic",
-    "retos-web-3",
     "Primer-concurso/Pasted image 20231004131910.png",
     "domino.jpg"
   ]

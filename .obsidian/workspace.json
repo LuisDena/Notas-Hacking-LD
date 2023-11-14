@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-reversing-3/4-Need For Speed.md",
+                "file": "Parcial-3/Parte2-Reversing/7-GDB baby step 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-reversing-3/4-Need For Speed.md",
+                "file": "Parcial-3/Parte2-Reversing/7-GDB baby step 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-reversing-3/4-Need For Speed.md",
+                "file": "Parcial-3/Parte2-Reversing/7-GDB baby step 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-reversing-3/4-Need For Speed.md"
+                "file": "Parcial-3/Parte2-Reversing/7-GDB baby step 2.md"
               }
             }
           },
@@ -158,11 +158,26 @@
   },
   "active": "5ca9ee2974d541f2",
   "lastOpenFiles": [
+    "Parcial-3/Parte2-Reversing/6-GDB baby step 1.md",
+    "Parcial-3/Parte2-Reversing/5-Bit-O-Asm-4.md",
+    "Parcial-3/Parte2-Reversing/4-Bit-O-Asm-3.md",
+    "Parcial-3/Parte2-Reversing/3-Bit-O-Asm-2.md",
+    "Parcial-3/Parte2-Reversing/2-Bit-O-Asm-1.md",
+    "Parcial-3/Parte2-Reversing/1-ASCII FTW.md",
+    "Parcial-3/Parte2-Reversing/7-GDB baby step 2.md",
+    "PlantillaExam.md",
+    "Parcial-3/Parte1-Crypto/5-SRA.md",
+    "Parcial-3/Parte1-Crypto/4-Mr-Worldwide.md",
+    "Parcial-3/Parte1-Crypto/3-Flags.md",
+    "Parcial-3/Parte1-Crypto/2-Vigenere.md",
+    "Parcial-3/Parte1-Crypto/1-transposition-trial.md",
+    "retos-reversing-3/4-Need For Speed.md",
+    "Parcial-3/Parte2-Reversing",
+    "Parcial-3/Parte1-Crypto",
+    "Parcial-3",
     "retos-reversing-3/1-GDB Test Drive.md",
     "retos-reversing-3/2-Safe Opener 2.md",
-    "retos-reversing-3/4-Need For Speed.md",
     "retos-reversing-3/3-reverse_cipher.md",
-    "PlantillaExam.md",
     "retos-reversing-2/3-asm3.md",
     "retos-reversing-3",
     "retos-reversing-2/2-asm2.md",
@@ -175,25 +190,10 @@
     "retos-reversing-1/2-vault-door-1.md",
     "retos-reversing-1/1-vault-door-training.md",
     "retos-reversing-1",
-    "retos-crypto-3/5-ReadMyCert.md",
-    "retos-crypto-3/4-HideToSee.md",
-    "retos-crypto-3/3-basic-mod1.md",
-    "retos-crypto-3/2-Pixelated.md",
-    "retos-crypto-3/1-Mind your Ps and Qs.md",
-    "retos-crypto-2/3-b00tl3gRSA2.md",
     "retos-crypto-3",
-    "retos-crypto-2/2-miniRSA.md",
-    "retos-crypto-2/1-rsa-pop-quiz.md",
     "retos-crypto-2",
-    "Parcial-2/Parte-2/7-St3g0.md",
-    "Parcial-2/Parte-2/6-Redaction gone wrong.md",
-    "Parcial-2/Parte-2/5-Packets Primer.md",
-    "Parcial-2/Parte-2/4-Lookey here.md",
     "Parcial-2/Parte-2",
     "Parcial-2/Parte-1-Retos-Web",
-    "Parcial-2",
-    "retos-crypto-1",
-    "retos-forensic-3",
     "Primer-concurso/Pasted image 20231004131910.png",
     "domino.jpg"
   ]
